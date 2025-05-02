@@ -20,6 +20,21 @@ let booleanIsLoggedIn = Boolean(isloggedIn)
 
 let myNumber = 77
 let stringNumber = String(myNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+// ************************** Operations ****************
+
+let value = 5
+let negValue = -5
+// console.log(negValue);
+
+let str1 = "hello"
+let str2 = " ankita"
+// console.log(str1+str2);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 +2);
+console.log(1 + 2 + "2");
 
